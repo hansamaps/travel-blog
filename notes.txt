@@ -1,0 +1,1 @@
+this is a traveler information page with about.html,destinations.html,and gallery.html
